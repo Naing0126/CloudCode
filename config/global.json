@@ -1,0 +1,17 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "_default": {
+      "link": "naing"
+    },
+    "naing": {
+      "applicationId": "53EzGw5jV91ZTkHmSlCkXi0gb862SicN5kBNvKsg",
+      "masterKey": "LpzT2ipxS5z7wbz0QHbeksfOgNtdAvMF4vfmvW3n"
+    },
+    "naingCloudCode": {
+      "link": "naing"
+    }
+  }
+}
